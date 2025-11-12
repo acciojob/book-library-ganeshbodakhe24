@@ -14,8 +14,9 @@
       }
 
       .price{
-		background-color: #2ecc71;
+		background-color:black;
+		color: #2ecc71;
 		text-align:center;
-		color:white;
+		/* color:white; */
 
       }
