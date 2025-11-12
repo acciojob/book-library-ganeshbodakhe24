@@ -5,28 +5,17 @@
 
       .book-library {
         background-color: #ffffff;
-        width: 80%;
-        margin: 30px auto;
-        padding: 20px;
-        display: flex;
-        justify-content: space-around;
-        flex-wrap: wrap;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        
       }
 
       .book {
         width: 200px;
-        text-align: center;
-        margin: 20px;
-        padding: 15px;
-        border: 1px solid #ddd;
+		  background-color:#f8f8f9'
         border-radius: 8px;
       }
 
       .book img {
-        width: 150px;
-        height: 220px;
-        border-radius: 4px;
+     
       }
 
       .book h3 {
@@ -40,7 +29,8 @@
       }
 
       .price {
-        color: #2ecc71;
-        font-weight: bold;
+		  text-align:center;
+        background-color: #2ecc71;
         font-size: 16px;
+		  border-radius:4px;
       }
